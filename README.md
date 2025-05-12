@@ -1,3 +1,3 @@
-# Glosario-Delitos-Cibern-ticos
+# Delitos-Cibern-ticos
 ## Glosario conceptos básicos de delitos cibernético 
 
