@@ -8,7 +8,9 @@
 **7) CPU (Unidad Central de Procesamiento):** Es el componente del hardware que procesa las señales y hace posible la computación. Actúa como el cerebro de cualquier equipo de computación. Obtiene instrucciones de la memoria, realiza las tareas necesarias y envía la salida a la memoria. Maneja todo tipo de tareas de computación necesarias para que el sistema operativo y las aplicaciones se ejecuten.<br/> ![partes-cpu](https://github.com/user-attachments/assets/0aec8671-35dc-46df-97b6-873e88382235) <br/>
 
 **8) Unidad de memoria:** Conjunto de registros organizados secuencialmente y divididos en celdas identificables a través de una dirección númerica. Es la encargada de almacenar los datos y las instrucciones de los programas. Almacena información binaria en grupos de bits que se introducen o se sacan del almacenamiento como una unidad.<br/>
-**9) Unidad de entrada:** Sirven para introducir datos a la computadora para su proceso. Los datos se leen de los dispositivos de entrada y se almacenan en la memoria central o interna. Los dispositivos de entrada convierten la información en señales eléctricas que se almacenan en la memoria central. Un dispositivo de entrada se comunican mediante la tarjeta controladora del dispositivo y del puerto.<br/>
+**9) Unidad de entrada:** Sirven para introducir datos a la computadora para su proceso. Los datos se leen de los dispositivos de entrada y se almacenan en la memoria central o interna. Los dispositivos de entrada convierten la información en señales eléctricas que se almacenan en la memoria central. Un dispositivo de entrada se comunican mediante la tarjeta controladora del dispositivo y del puerto.<br/> ![desktop_f786431e-f7c1-49b2-9aca-57723d832683](https://github.com/user-attachments/assets/d0a7e439-2f33-40e2-a167-3c15717aeac1) <br/> 
+
 **10) Unidad de salida:** Funcionan como receptores de datos de la computadora, es decir, sólo pueden recibir datos enviados desde el CPU. Sirven para conocer los resultados de los procesos realizados.
 **11) Unidad de control:** Se encarga de de recuperar las instrucciones almacenadas en la unidad de memoria y genera las señales de control para que
+
 
