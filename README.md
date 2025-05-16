@@ -1,6 +1,7 @@
 # Delitos-Cibern-ticos
 ## Glosario conceptos básicos de delitos cibernético 
-**1) Informática:** Conjunto de conocimientos científicos y técnicas que nos permiten obtener de manera automatizada información completa, clara, veraz y oportuna para la tom de decisiones. Este conjunto de técnicas y disciplinas son aplicables al manejo de la información que es desarrollada por medios automáticos utilizados dentro de una computadora.<br/>
+**1) Informática:** Conjunto de conocimientos científicos y técnicas que nos permiten obtener de manera automatizada información completa, clara, veraz y oportuna para la tom de decisiones. Este conjunto de técnicas y disciplinas son aplicables al manejo de la información que es desarrollada por medios automáticos utilizados dentro de una computadora.<br/> ![¿Que-se-protege-en-seguridad-informatica](https://github.com/user-attachments/assets/aaafe64b-d589-464b-8537-bff73f0365f6) <br/>
+
 **2) Dato:** Unidad de información que puede definirse con precisión. Los datos son materias primas que al ser procesadas dan lugar a la información. Es la representación simbólica, con carencia de valor semántico y de sentido. Incapaces de transmitir mensajes por si solos.<br/>**3) Información:** Resultado final del procesamiento de datos. Puede comunicarse de diferentes formas como textos, imágenes, sonidos, gráficas, video, etc. Nace cuando los datos pasan a tener un significado.<br/>
 **4) Delito Cibernetico:** Cualquier comportamiento o acto antijurídico no autorizado relacionado con el procesado automático de datos y/o transmisiones de datos que es cometido utilizando medios digitales como computadoras, internet, redes sociales y otros dispositivos electrónicos.<br/>
 **5) Datos personales:** Toda aquella información que se relaciona con una persona y que nos identifica o nos hace identificables. Estos datos nos dan identidad, nos describen y precisan. Toda esta información puede ser expresada de forma alfabetica, númerica, gráfica, acústica, fotográfica o de cualquier indole. Pueden describir aspectos sensible y delicados, por ejemplo: nombre, edad, domicilio, número de teléfono, correo, CURP.<br/>
@@ -15,4 +16,5 @@
 **11) Unidad de control:** Se encarga de de recuperar las instrucciones almacenadas en la unidad de memoria y genera las señales de control para que el CPU ejecute las instrucciones
 adecuadamente y en un orden perfecto. Existen dos tipos de unidades de control, las cableadas y las microprogramadas. En el primer caso, los componentes principales son el
 circuito de lógica secuencial, el de control de estado, el de lógica combinacional y el de emisión de reconocimiento de señales de control. En el segundo caso, la microprogramación de la unidad de control se encuentra almacenada en una micromemoria.
+
 
