@@ -26,5 +26,6 @@ circuito de lógica secuencial, el de control de estado, el de lógica combinaci
 **17) Internet:** Es una inmensa red pública de redes de computadoras que conecta a usuarios de diversos tipos en todo el mundo entre sí y con un almacén de datos increíblemente grande de información.<br/> ![internet](https://github.com/user-attachments/assets/d0a7237b-c8f0-441a-85e0-45f0f51abdf9) <br/>
 
 **18) VPN:** Una VPN o red privada virtual crea una conexión de red privada entre dispositivos a través de Internet. Las VPN se utilizan para transmitir datos de forma segura y anónima a través de redes públicas. Su funcionamiento consiste en ocultar las direcciones IP de los usuarios y cifrar los datos para que nadie que no esté autorizado a recibirlos pueda leerlos.  <br/>
-**19)
+**19) Red Tor:** La red Tor es una red de túneles virtuales que permite mejorar la privacidad y seguridad en Internet. Tor funciona enviando el tráfico a través de tres servidores aleatorios (también conocidos como repetidores) en la red Tor. El último repetidor en el circuito (el "repetidor de salida") envía el tráfico hacia el Internet público.<br/> ![Tor-logo-2011-flat svg](https://github.com/user-attachments/assets/3b6f0e46-2f77-4c28-9f07-dfb7fd7d7982) <br/>
+
 
